@@ -15,10 +15,6 @@ namespace ProxySwitcher
     {
         WinProxy _winProxy = null;
 
-
-
-
-
         public MainForm()
         {
             InitializeComponent();
